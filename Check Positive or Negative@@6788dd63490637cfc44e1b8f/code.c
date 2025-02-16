@@ -5,8 +5,8 @@ int main(){
     scanf("%d" ,&a);
     if (a>0){
         printf("Positive");
-    if else (a ==  0){
-        prints("Zero");
+    if  (a ==  0){
+        printf("Zero");
 
     }
     else{
