@@ -4,7 +4,7 @@ int main(){
     int a ;
     scanf("%d" ,&a);
     if (a>0){
-        printf("Positive\n");
+        printf("Positive");
         }
     if  (a ==  0){
         printf("Zero");
@@ -15,4 +15,3 @@ int main(){
     }
     return 0;
     }
-}
