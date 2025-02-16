@@ -2,8 +2,8 @@
 #include <stdio.h>
 int main(){
     float pi = 3.14;
-    int a ;
-    scanf("%d", &a);
+    float a ;
+    scanf("%f", &a);
     printf("Area: %.2f", pi*a*a);
     return 0;
 }
