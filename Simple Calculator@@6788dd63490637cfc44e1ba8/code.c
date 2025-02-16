@@ -8,19 +8,19 @@ int main(){
     case (c){
         case '+':
         d = a+b;
-        print("%d",d);
+        printf("%d",d);
         break;
         case '-':
         d = a-b;
-        print("%d",d);
+        printf("%d",d);
         break;
         case '*':
         d = a*b;
-        print("%d",d);
+        printf("%d",d);
         break;
         case '/':
         d = a/b;
-        print("%d",d);
+        printf("%d",d);
         break;
     }
     return 0;
