@@ -9,7 +9,7 @@ int main(){
         printf("Isoceles");
     }
     else{
-        print("Scslene");
+        print("Scalene");
     }
     return 0;
 
